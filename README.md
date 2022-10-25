@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm Juan Martinez
+A passionate full-stack developer from Argentina
 
 <!--
 **juanmartinezp/juanmartinezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
