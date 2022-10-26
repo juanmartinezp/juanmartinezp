@@ -25,7 +25,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["PostgreSQL", "MongoDB"]
+      database: ["PostgreSQL"]
    },
    focus: "I'm looking for oportunities to be part of a team into this amazing web development world",
 };
