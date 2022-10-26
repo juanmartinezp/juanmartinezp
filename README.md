@@ -16,14 +16,13 @@ I'm a 36 years old industrial process and operations engineer, from Mendoza, Arg
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS],
-   tools: [graphql, sequalize],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
          css: ["Bootstrap", "Material UI"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         js: ["Node", "Express", "Sequelize"]
       },
       database: ["PostgreSQL"]
    },
