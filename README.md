@@ -10,7 +10,7 @@
 
 
 ### A little more about me... 
-I'm a 36 years old industrial process and operations engineer, from Mendoza, Argentina. I am also graduated from a full stack web development bootcamp at Henry, learning and using different technologies such as the ones  listed in my personal code description below:
+I'm a 37 years old industrial process and operations engineer, from Mendoza, Argentina. I am also graduated from a full stack web development bootcamp at Henry, learning and using different technologies such as the ones  listed in my personal code description below:
 
 ```javascript
 const aboutMe = {
